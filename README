@@ -5,3 +5,7 @@ mainly Paul Schlyters "sunriset" that I have tried to improved on.
 Source is public domain and free for all to use.
 
 I ask people to honor an MIT License however.
+
+compile with math library
+
+gcc -o sunriset main.c -lm
